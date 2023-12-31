@@ -25,4 +25,4 @@ Express::
   (restart your system if not working)
 
 MongoDB ::
- 
+ npm i mongoose @types/mongoose
